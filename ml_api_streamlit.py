@@ -66,7 +66,7 @@ def main():
     
     st.title("🛍️ Buscador Mercado Livre")
     st.write("Digite o produto que deseja buscar e veja os resultados das 10 primeiras páginas do Mercado Livre")
-    st.write("💡 Dica: Use aspas para buscar palavras exatas. Exemplo: celular \"samsung\" \"novo\"")
+    st.write("💡 Dica: Use aspas para buscar palavras exatas. Exemplo: Cartucho \"Scarlat\" ")
     
     # Campo de busca
     busca = st.text_input("O que você está procurando?")
